@@ -6,3 +6,5 @@ if (answer == "2"):
     print("yes")
 else:
     print("nope")
+print("-------")
+print("alright")
