@@ -14,7 +14,6 @@ if (difficulty == "easy"):
 else:
     answer2 = input("what is 6 times 4: ")
     if (answer2 == "24"):
-        print("yes")
         print("wow you are good at math!")
     else:
         print("nope")
